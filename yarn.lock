@@ -2325,9 +2325,9 @@ ember-load-initializers@^1.0.0:
   dependencies:
     ember-cli-babel "^6.0.0-beta.7"
 
-ember-pouch@^5.0.0-beta.2:
+ember-pouch@Fed03/ember-pouch#waiter:
   version "5.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/ember-pouch/-/ember-pouch-5.0.0-beta.2.tgz#dbf4b0937487a2a83829ac04c559b7bd275e523e"
+  resolved "https://codeload.github.com/Fed03/ember-pouch/tar.gz/dfebe32ed55a79639f6bf2a80a3e6ceaed4c0cb1"
   dependencies:
     broccoli-stew "^1.3.1"
     ember-cli-babel "^6.3.0"
