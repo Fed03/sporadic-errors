@@ -1,6 +1,6 @@
 import { Adapter } from "ember-pouch";
 import PouchDB from "pouchdb";
-import config from "sporadic-errors/config/environment";
+// import config from "sporadic-errors/config/environment";
 import Ember from "ember";
 
 const { assert, isEmpty } = Ember;
